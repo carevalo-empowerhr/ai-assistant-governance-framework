@@ -5,7 +5,6 @@
 
 ## Reference
 
-- Mantis:
 - Company:
 - Country/plugin:
 - Transaction/report/module:

@@ -32,7 +32,7 @@ The assistant MUST NOT:
 
 The human reviewer SHOULD:
 
-- provide Mantis number, company code, country/plugin, transaction name, and expected behavior when known,
+- provide company code, country/plugin, transaction name, and expected behavior when known,
 - approve high-risk payroll or security changes,
 - review test evidence before deployment,
 - update this framework when a repeated exception becomes a standard rule.

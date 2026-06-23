@@ -42,7 +42,6 @@ payroll123/               ← all Payroll123 code lives here
 
 The assistant SHOULD detect and record:
 
-- Mantis number,
 - company code,
 - country code,
 - transaction name,

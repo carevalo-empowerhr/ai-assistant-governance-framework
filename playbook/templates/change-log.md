@@ -3,7 +3,6 @@
 ## Reference
 
 - Date:
-- Mantis:
 - Request:
 - Author/assistant:
 

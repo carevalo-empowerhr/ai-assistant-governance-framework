@@ -28,8 +28,7 @@ The developer MUST:
 - follow existing Payroll123 style,
 - keep edits focused,
 - avoid unrelated cleanup,
-- prefer local helper APIs and project conventions,
-- update Mantis mirrors when required.
+- prefer local helper APIs and project conventions.
 
 ## QA
 

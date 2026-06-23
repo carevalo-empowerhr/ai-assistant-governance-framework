@@ -1,3 +1,8 @@
 # Payroll123 has its own repository — only the empty directory placeholder is tracked here
 payroll123/*
 !payroll123/.gitkeep
+
+# Docusaurus
+website/node_modules/
+website/build/
+website/.docusaurus/

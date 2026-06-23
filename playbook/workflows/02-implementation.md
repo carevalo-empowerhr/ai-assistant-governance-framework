@@ -7,11 +7,9 @@ Follow this workflow when changing code.
 1. Confirm risk classification.
 2. Read relevant standards.
 3. Inspect existing code and patterns.
-4. If Mantis applies, initialize Mantis workflow.
-5. Make the smallest safe change.
-6. Mirror Mantis files when required.
-7. Run validation.
-8. Prepare final summary with evidence.
+4. Make the smallest safe change.
+5. Run validation.
+6. Prepare final summary with evidence.
 
 ## Code Editing Rules
 

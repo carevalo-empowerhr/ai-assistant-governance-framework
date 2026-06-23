@@ -3,7 +3,6 @@
 ## Scope
 
 - Request:
-- Mantis:
 - Company:
 - Country/plugin:
 - Module/report/API/page:

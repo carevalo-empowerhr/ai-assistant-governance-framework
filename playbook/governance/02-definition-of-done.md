@@ -34,8 +34,3 @@ A Payroll123 AI-assisted change is done only when all applicable items are compl
 - The base file was changed only if the fix is global.
 - The reason for extension, plugin, or base placement is documented.
 
-## Required For Mantis Work
-
-- `.current-mantis` is set before code changes and cleared when done, if working inside the Payroll123 repo that uses it.
-- Modified files are copied to `mantis/mantis{NUMBER}/` preserving the relative path from `payroll123/`.
-- Multiple mentioned transactions or reports were all searched and handled.

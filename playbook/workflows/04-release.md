@@ -7,7 +7,6 @@ Use this workflow before deployment or handoff.
 Before release, confirm:
 
 - change scope is clear,
-- Mantis workflow is complete when applicable,
 - tests or validation are documented,
 - audit is complete for high-risk work,
 - rollback path is known,
@@ -21,7 +20,7 @@ AI assistants MUST NOT deploy to production without explicit human approval.
 
 Release notes SHOULD include:
 
-- Mantis number or request reference,
+- request reference,
 - affected modules,
 - user-visible behavior change,
 - validation evidence,

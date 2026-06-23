@@ -12,7 +12,6 @@ The framework covers:
 - Payroll123 architecture and coding standards.
 - Security, privacy, and payroll data rules.
 - Company extension precedence.
-- Mantis task handling.
 - Testing and regression expectations.
 - PHP 8.4 compatibility audits.
 - Change documentation and review templates.
@@ -61,8 +60,7 @@ When starting a new AI session, the assistant MUST read `AGENTS.md` or `CLAUDE.m
 |   |   |-- 02-php84-coding-standard.md
 |   |   |-- 03-database-and-sql.md
 |   |   |-- 04-security-and-privacy.md
-|   |   |-- 05-company-extension-rules.md
-|   |   `-- 06-mantis-workflow.md
+|   |   `-- 05-company-extension-rules.md
 |   |-- templates/
 |   |   |-- audit-report.md
 |   |   |-- change-log.md

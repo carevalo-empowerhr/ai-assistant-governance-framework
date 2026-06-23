@@ -7,7 +7,7 @@ Quality gates decide whether an AI-assisted change can move forward.
 Pass when:
 
 - request is understood,
-- Mantis, company, plugin, transaction, or report are identified when present,
+- company, plugin, transaction, or report are identified when present,
 - risk level is assigned,
 - relevant files are inspected.
 
@@ -17,7 +17,6 @@ Pass when:
 
 - change is scoped,
 - standards are followed,
-- Mantis mirror is updated when required,
 - no unrelated edits are present.
 
 ## Gate 3: Validation Complete

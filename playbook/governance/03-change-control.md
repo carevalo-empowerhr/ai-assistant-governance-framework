@@ -8,7 +8,7 @@ For non-trivial changes, maintain a short change record using `playbook/template
 
 The record SHOULD include:
 
-- request or Mantis number,
+- request reference,
 - company code, country, plugin, transaction, or report,
 - files changed,
 - reason for each change,
@@ -42,8 +42,6 @@ Every medium-risk or high-risk change SHOULD identify a practical rollback:
 
 When possible, connect the work to:
 
-- Mantis number,
-- commit hash,
 - modified file list,
 - test report,
 - audit report.

@@ -7,7 +7,6 @@ Use this workflow before implementation.
 The assistant SHOULD infer these from the user request and repository context:
 
 - What is the requested outcome?
-- Is there a Mantis number?
 - Is a company code mentioned?
 - Is a country, plugin, transaction, report, API, or page mentioned?
 - Is the change bug fix, enhancement, migration, audit, or review?
@@ -25,7 +24,7 @@ Before editing, inspect:
 - company extension path if company-specific,
 - plugin path if country-specific,
 - base file if extension/plugin behavior depends on it,
-- existing tests or prior Mantis mirrors when relevant.
+- existing tests when relevant.
 
 ## Intake Output For Non-Trivial Work
 

@@ -58,6 +58,5 @@ Before accepting AI work, check that the assistant response mentions:
 
 - relevant standards read,
 - affected company or plugin scope,
-- Mantis workflow if applicable,
 - validation performed,
 - risk or audit notes for payroll, security, or data changes.

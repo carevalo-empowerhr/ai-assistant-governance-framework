@@ -13,7 +13,7 @@ You are working on Payroll123. Before doing anything, read the AI governance fra
 ## Implementation
 
 ```text
-Before implementing, read the Payroll123 AI governance framework. Identify Mantis number, company code, plugin/base scope, risk level, implementation plan, and validation plan. Follow the framework definition of done.
+Before implementing, read the Payroll123 AI governance framework. Identify company code, plugin/base scope, risk level, implementation plan, and validation plan. Follow the framework definition of done.
 ```
 
 ## Review

@@ -23,7 +23,6 @@ For implementation work, also read:
 - `playbook/standards/03-database-and-sql.md`
 - `playbook/standards/04-security-and-privacy.md`
 - `playbook/standards/05-company-extension-rules.md`
-- `playbook/standards/06-mantis-workflow.md`
 - `playbook/testing/00-testing-strategy.md`
 - `playbook/governance/02-definition-of-done.md`
 - `playbook/governance/05-quality-gates.md`
@@ -52,11 +51,9 @@ For implementation work, also read:
 - Use `mb_*` functions for multibyte string handling.
 - Respect global/session variables used by the project, including `$company`, `$lang`, and `$userid`.
 - If a task mentions a company code, check company extensions before plugins or base files.
-- If a task mentions a Mantis number, follow `playbook/standards/06-mantis-workflow.md`.
-
 ## Standard Workflow
 
-1. Understand the request and identify affected domain, company, Mantis number, and risk.
+1. Understand the request and identify affected domain, company, and risk.
 2. Read the relevant existing files and nearby patterns.
 3. Produce a short plan for non-trivial work.
 4. Implement the smallest safe change.

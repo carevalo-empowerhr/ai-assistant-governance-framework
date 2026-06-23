@@ -2,7 +2,6 @@
 
 ## Reference
 
-- Mantis:
 - Request:
 - Files:
 - Auditor:

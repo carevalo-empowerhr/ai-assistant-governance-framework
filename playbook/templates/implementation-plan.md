@@ -11,7 +11,6 @@
 - [ ] SQL standard
 - [ ] Security/privacy standard
 - [ ] Company extension rules
-- [ ] Mantis workflow
 - [ ] Testing strategy
 
 ## Scope
