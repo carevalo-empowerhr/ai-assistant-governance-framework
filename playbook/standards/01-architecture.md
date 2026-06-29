@@ -14,6 +14,7 @@ const TBL_NAME = 'DB_Table';
 ```
 
 - Prefer existing base classes, helpers, and project idioms.
+- Before creating a new function or method, search the codebase for existing ones that already provide the same or similar behavior. Reuse and extend what exists rather than duplicating functionality.
 
 ## Pages And Components
 
@@ -55,4 +56,5 @@ Do not:
 - add framework-style abstractions that are not used by the project,
 - move logic across layers without a clear requirement,
 - refactor old code while fixing a specific bug,
-- introduce new dependencies without approval.
+- introduce new dependencies without approval,
+- create new functions or methods that duplicate behavior already available in existing code.
