@@ -44,4 +44,5 @@ When possible, connect the work to:
 
 - modified file list,
 - test report,
-- audit report.
+- audit report,
+- pull request number and approval record.
