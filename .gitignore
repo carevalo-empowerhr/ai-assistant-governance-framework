@@ -2,6 +2,9 @@
 payroll123/*
 !payroll123/.gitkeep
 
+# Azure DevOps PoC reference (local only)
+yaml_azure.yaml
+
 # Docusaurus
 website/node_modules/
 website/build/
